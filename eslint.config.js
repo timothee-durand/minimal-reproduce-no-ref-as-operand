@@ -13,5 +13,4 @@ export default [
   },
 
   ...pluginVue.configs['flat/recommended'],
-  ...vueTsEslintConfig(),
 ]
